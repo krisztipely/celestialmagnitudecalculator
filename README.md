@@ -42,4 +42,4 @@ Apparent Magnitude: 8.69
 The code includes a set of unit tests in the ApparentMagnitudeCalculatorTests class to ensure the accuracy of the apparent magnitude calculation. These tests can be run using a testing framework like MSTest.
 
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/celestialmagnitudecalculator/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
